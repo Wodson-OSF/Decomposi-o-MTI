@@ -1,4 +1,4 @@
-# Decomposi-o-MTI/**
+# Decomposicao-MTI/**
  * Gera todas as subsequências de uma palavra composta apenas por letras maiúsculas ou minúsculas.
  *
  * @param word Palavra a ser analisada.
